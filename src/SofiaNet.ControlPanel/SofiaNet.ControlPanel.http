@@ -1,0 +1,6 @@
+@SofiaNet.ControlPanel_HostAddress = http://localhost:5039
+
+GET {{SofiaNet.ControlPanel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

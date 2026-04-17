@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SofiaNet.ControlPanel/SofiaNet.ControlPanel.csproj" />
+    <Project Path="src/SofiaNet.Grpc/SofiaNet.Grpc.csproj" />
+    <Project Path="src/SofiaNet.Shared/SofiaNet.Shared.csproj" />
+    <Project Path="src/SofiaNet.Worker/SofiaNet.Worker.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SofiaNet.ControlPanel.Tests/SofiaNet.ControlPanel.Tests.csproj" />
+    <Project Path="tests/SofiaNet.Worker.Tests/SofiaNet.Worker.Tests.csproj" />
+  </Folder>
+</Solution>
